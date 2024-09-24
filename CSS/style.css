@@ -1,0 +1,35 @@
+body {
+    background-color: #2f4f3e;
+}
+
+.hero-section {
+    height: 100vh;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+p {
+    font-size: 1.2rem;
+    margin-top: 1rem;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.navbar-dark .nav-link {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.navbar-dark .nav-link.active, .navbar-dark .nav-link:hover {
+    color: #fff;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
